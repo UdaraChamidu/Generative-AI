@@ -1,4 +1,4 @@
-# 🧠 Generative AI Projects
+# Generative AI Projects
 
 Welcome to my collection of **basic generative AI projects**. This repository includes small but powerful experiments and demos built using cutting edge tools like **OpenAI**, **LangChain**, and more. These projects cover **text generation**, **chatbots**, **image generation**, and **API integrations**.
 
